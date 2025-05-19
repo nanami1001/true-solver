@@ -61,22 +61,6 @@ python app\ui.py
 
 按下【計算】即會顯示符合條件的數學表達式
 
-## 專案結構:
-arduino
-複製
-編輯
-迫真運算器/
-├── app/
-│   ├── ui.py             ← 主程式介面
-│   ├── solver.py         ← 初階模式運算邏輯
-│   └── solverad.py       ← 進階模式運算邏輯
-├── utils.py              ← 安全運算工具
-├── install.bat           ← 一鍵安裝腳本
-├── run.bat               ← 快速啟動腳本（選用）
-├── requirements.txt      ← 所需套件列表（如有）
-└── README.md             ← 本說明文件
-
-
 
 ## 注意事項:
 請使用 Python 3.6 以上版本（建議 3.10+）
