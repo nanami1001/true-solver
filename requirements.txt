@@ -1,0 +1,2 @@
+# requirements.txt
+# 本專案使用的函式庫
